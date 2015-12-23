@@ -1,1 +1,13 @@
 /*!---------- PLACE YOUR CUSTOM STYLES AND OVERRIDES HERE ----------*/
+#share-buttons img {
+width: 35px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
+
+
+.slide {
+	margin-bottom: 5px !important;
+}
